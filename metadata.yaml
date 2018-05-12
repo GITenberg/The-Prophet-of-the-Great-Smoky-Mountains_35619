@@ -1,0 +1,32 @@
+_repo: The-Prophet-of-the-Great-Smoky-Mountains_35619
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murfree, Mary Noailles
+    alias: Craddock, Charles Egbert
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '1759'
+    url: http://www.gutenberg.org/2009/agents/1759
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Noailles_Murfree
+description: ''
+gutenberg_issued: '2011-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountain life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Great Smoky Mountains (N.C. and Tenn.) -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Tennessee, East -- Fiction'
+- !lcsh 'Dialect literature, American -- Tennessee'
+title: The Prophet of the Great Smoky Mountains
+url: http://www.gutenberg.org/ebooks/35619
